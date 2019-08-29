@@ -42,6 +42,15 @@ img {
     width: 20px;
     height: 20px;
 }
+.sobre{position: relative ;
+    font-size: 20px;
+    left: 50%;
+    top:50%;
+    text-align: center;
+    border-color: black;
+    align-items: center;
+    margin-top: 20%;
+    transform: translate(-50%,-50%);}
 
     .header {
         background-color: lightsalmon;
